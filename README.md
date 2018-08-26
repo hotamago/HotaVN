@@ -4,15 +4,15 @@ Link: HotaVN
 
 ---
 
-##Hợp tác kinh doanh với HotaVN
+## Hợp tác kinh doanh với HotaVN
 
-###Nếu bạn muốn quảng cáo với HotaVN thì liên hệ qua email: hotavn.hotro@gmail.com
+### Nếu bạn muốn quảng cáo với HotaVN thì liên hệ qua email: hotavn.hotro@gmail.com
 
-####Chúng tôi sẽ chấp nhận những quảng cáo không liên quan đến bạo lực, phản động, khiêu dâm. Bạn có thể đặt quảng cáo trên những bài học của HotaVN hoặc trên những topic của HotaVN.
+#### Chúng tôi sẽ chấp nhận những quảng cáo không liên quan đến bạo lực, phản động, khiêu dâm. Bạn có thể đặt quảng cáo trên những bài học của HotaVN hoặc trên những topic của HotaVN.
 
-##Nếu bạn muốn sử dụng api của HotaVN. liên hệ qua email: hotavn.hotro@gmail.com
+## Nếu bạn muốn sử dụng api của HotaVN. liên hệ qua email: hotavn.hotro@gmail.com
 
-#####API của HotaVN bao gồm:
+##### API của HotaVN bao gồm:
 + Auto translate
 + Find english video
 + Text to speech
@@ -23,7 +23,7 @@ Link: HotaVN
 
 ---
 
-##Ủng hộ HotaVN
+## Ủng hộ HotaVN
 
 **Donate: https://vrdonate.vn/hotavn**
 Bạn có thể ủng hộ thẻ cào hoặc ủng hộ tiền bằng cách donate cho HotaVN qua link trên.
