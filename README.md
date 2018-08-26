@@ -25,7 +25,7 @@ Link: [https://hotavn.ga](https://hotavn.ga)
 
 ## Ủng hộ HotaVN
 
-**Donate: https://vrdonate.vn/hotavn**
+**Donate: [https://vrdonate.vn/hotavn](https://vrdonate.vn/hotavn)**
 Bạn có thể ủng hộ thẻ cào hoặc ủng hộ tiền bằng cách donate cho HotaVN qua link trên.
 
 **Giới thiệu nhiều người**
