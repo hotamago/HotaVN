@@ -1,6 +1,6 @@
 # HotaVN
 Web học mọi thứ online miễn phí!
-Link: [https://hotavn.ga](https://hotavn.ga)
+Link: [https://hotavn.com/](https://hotavn.com/)
 
 ---
 
