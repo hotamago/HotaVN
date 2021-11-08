@@ -10,7 +10,7 @@ Link: [https://hotavn.com/](https://hotavn.com/)
 
 #### Chúng tôi sẽ chấp nhận những quảng cáo không liên quan đến bạo lực, cờ bạc, khiêu dâm,... Phù hợp với văn hóa và pháp luật Việt Nam. Bạn có thể đặt quảng cáo trên những bài học của HotaVN hoặc trên những topic của HotaVN.
 
-## Nếu bạn muốn kinh doanh khóa học và public lên HotaVN vui lòng liên hệ qua email: hotavn.hotro@gmail.com
+### Nếu bạn muốn kinh doanh khóa học và public lên HotaVN vui lòng liên hệ qua email: hotavn.hotro@gmail.com
 
 ##### Các khóa học được public thỏa mãn yêu cầu sau:
 + Có số phải học public phải trên 10 bài
