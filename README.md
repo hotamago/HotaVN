@@ -21,6 +21,9 @@ Link: [https://hotavn.com/](https://hotavn.com/)
 
 ## Ủng hộ HotaVN
 
+**Tích cực đăng bài lên diễn đàn**
+Hãy đóng góp cho diễn đàn HotaVN thật nhiều bài hữu ích và thú vị nhé ^_^
+
 **Giới thiệu nhiều người**
 Bạn có thể giới thiệu HotaVN cho nhiều người người biết để HotaVN có nhiều thành viên hơn và có cộng đồng vui nhộn hơn.
 
